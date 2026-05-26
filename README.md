@@ -1,2 +1,0 @@
-# c++
-programs in c++
